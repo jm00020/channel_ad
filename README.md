@@ -1,3 +1,3 @@
-# channel_ad
+# channel_ae
 
-channel coding and autodecoder
+channel coding and autoencoder
